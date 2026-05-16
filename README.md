@@ -30,9 +30,9 @@ name:       Md Faisal Mahmud Rifat
 role:       React Native Engineer + Backend Engineer
 location:   Dhaka, Bangladesh 🇧🇩
 experience: 5+ Years
-current:    ACI Logistics (Software Engineer)
+current:    ACI Logistics (Senior Software Engineer)
 focus:      Mobile Apps + Backend APIs + AI-Augmented Development
-cp_solved:  700+ problems across CF, LC, UVA
+cp_solved:  1000+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
@@ -41,7 +41,7 @@ cp_solved:  700+ problems across CF, LC, UVA
 - 🚛 Previously shipped **Truck Lagbe** (logistics platform, 2 apps, 100K+ users)
 - ⚙️ Building backend systems with **NestJS, PostgreSQL and Node.js**
 - 🤖 Leverage **LLMs & AI tools** daily: code generation, UX reasoning, debugging
-- 🧩 Competitive programmer with **700+ problems** solved. I actually think algorithmically
+- 🧩 Competitive programmer with **1000+ problems** solved. I actually think algorithmically
 - 🏆 **2x Programming Contest Champion** at BUBT
 
 
@@ -137,7 +137,7 @@ cp_solved:  700+ problems across CF, LC, UVA
 |---------------|-----------|
 | 🥇 2x Champion | BUBT Intra-University Programming Contest |
 | 🥉 2x Third Place | BUBT Intra-University Programming Contest |
-| ✅ 700+ Problems | Codeforces · LeetCode · CodeChef · UVA |
+| ✅ 1000+ Problems | Codeforces · LeetCode · CodeChef · UVA |
 | 📌 ICPC Volunteer | Contest organizer and junior mentor |
 
 </div>
