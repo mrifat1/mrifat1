@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faisal%20Mahmud%20Rifat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20Engineer%20%7C%20AI-Augmented%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faisal%20Mahmud%20Rifat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%26%20Backend%20Engineer%20%7C%20AI-Augmented%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+AI+Tools+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;1%2B+Year+of+Backend+Engineering+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,18 +21,18 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Hey! I'm **Faisal**, a mobile-first engineer who's spent **5+ years** turning complex real-world problems into sleek, scalable apps.
+Hey! I'm **Faisal**, a mobile-first engineer with **5+ years** in React Native and **1+ year** building backend systems with NestJS and PostgreSQL. I turn complex real-world problems into sleek, scalable products across the full stack.
 
 My superpower? I combine **solid engineering fundamentals** with **modern AI workflows** to ship faster and smarter than ever.
 
 ```yaml
 name:       Md Faisal Mahmud Rifat
-role:       React Native Engineer
+role:       React Native Engineer + Backend Engineer
 location:   Dhaka, Bangladesh 🇧🇩
 experience: 5+ Years
 current:    ACI Logistics (Software Engineer)
-focus:      Mobile Apps + AI-Augmented Development
-cp_solved:  1000+ problems across CF, LC, UVA
+focus:      Mobile Apps + Backend APIs + AI-Augmented Development
+cp_solved:  700+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
