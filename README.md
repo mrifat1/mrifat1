@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;1%2B+Year+of+Backend+Engineering+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;Backend+Engineering+with+NestJS+%26+PostgreSQL+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Hey! I'm **Faisal**, a mobile-first engineer with **5+ years** in React Native and **1+ year** building backend systems with NestJS and PostgreSQL. I turn complex real-world problems into sleek, scalable products across the full stack.
+Hey! I'm **Faisal**, a mobile-first engineer with **5+ years** in React Native and solid backend experience with NestJS and PostgreSQL. I turn complex real-world problems into sleek, scalable products across the full stack.
 
 My superpower? I combine **solid engineering fundamentals** with **modern AI workflows** to ship faster and smarter than ever.
 
@@ -32,16 +32,16 @@ location:   Dhaka, Bangladesh 🇧🇩
 experience: 5+ Years
 current:    ACI Logistics (Software Engineer)
 focus:      Mobile Apps + Backend APIs + AI-Augmented Development
-cp_solved:  700+ problems across CF, LC, UVA
+cp_solved:  1000+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
 
 - 📱 Currently crafting **mobile + backend features** at **ACI Logistics** — barcode scanning, real-time DC workflows, NestJS APIs
 - 🚛 Previously shipped **Truck Lagbe** (logistics platform, 2 apps, 100K+ users)
-- ⚙️ Building backend systems with **NestJS, PostgreSQL and Node.js** for 1+ year
+- ⚙️ Building backend systems with **NestJS, PostgreSQL and Node.js**
 - 🤖 Leverage **LLMs & AI tools** daily — from code generation to UX reasoning to debugging
-- 🧩 Competitive programmer with **700+ problems** solved — I actually think algorithmically
+- 🧩 Competitive programmer with **1000+ problems** solved — I actually think algorithmically
 - 🏆 **2x Programming Contest Champion** at BUBT
 
 
@@ -137,7 +137,7 @@ cp_solved:  700+ problems across CF, LC, UVA
 |---------------|-----------|
 | 🥇 2x Champion | BUBT Intra-University Programming Contest |
 | 🥉 2x Third Place | BUBT Intra-University Programming Contest |
-| ✅ 700+ Problems | Codeforces · LeetCode · CodeChef · UVA |
+| ✅ 1000+ Problems | Codeforces · LeetCode · CodeChef · UVA |
 | 📌 ICPC Volunteer | Contest organizer and junior mentor |
 
 </div>
