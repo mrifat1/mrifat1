@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faisal%20Mahmud%20Rifat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%26%20Backend%20Engineer%20%7C%20AI-Augmented%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faisal%20Mahmud%20Rifat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=%F0%9F%93%B1%20React%20Native%20Engineer%20%C2%B7%20%E2%9A%99%EF%B8%8F%20Backend%20Engineer%20%C2%B7%20%F0%9F%A4%96%20AI-Augmented%20Dev&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
-
-### 📱 React Native Engineer · ⚙️ Backend Engineer · 🤖 AI-Augmented Developer · 🇧🇩 Dhaka
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;1%2B+Year+of+Backend+Engineering+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
 
