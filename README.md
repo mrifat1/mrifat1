@@ -1,131 +1,164 @@
 <div align="center">
 
-```
- ██████╗  ██╗ ███████╗  █████╗  ██╗
- ██╔══██╗ ██║ ██╔════╝ ██╔══██╗ ██║
- ██████╔╝ ██║ █████╗   ███████║ ██║
- ██╔══██╗ ██║ ██╔══╝   ██╔══██║ ██║
- ██║  ██║ ██║ ██║      ██║  ██║ ███████╗
- ╚═╝  ╚═╝ ╚═╝ ╚═╝      ╚═╝  ╚═╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faisal%20Mahmud%20Rifat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20Engineer%20%7C%20AI-Augmented%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-# Md Faisal Mahmud Rifat
+<br/>
 
-### 📱 React Native Engineer · 🤖 AI-Augmented Developer · 🇧🇩 Dhaka
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+AI+Tools+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
 
-*5+ years shipping production mobile apps — powered by clean code & sharp AI instincts*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faisalmrifat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisalmrifat/)
-[![Email](https://img.shields.io/badge/Email-mahmudrifat200@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudrifat200@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-mahmudrifat200-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudrifat200@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mrifat1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrifat1)
+
+<br/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Who am I?
+## 🧠 The Developer Behind the Screen
 
-> I don't just write code — I architect experiences. With **5+ years** of React Native under my belt and AI woven into every layer of my workflow, I build mobile products that are fast, scalable, and actually get shipped.
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 📱 Currently crafting **distribution ops** at **ACI Logistics** — barcode scanning, real-time DC workflows
-- 🚛 Previously shipped **Truck Lagbe** (logistics platform, 2 apps, 100K+ users)
-- 🤖 Leverage **LLMs & AI tools** daily — from code generation to UX reasoning to debugging
-- 🧩 Competitive programmer with **700+ problems** solved — I actually think algorithmically
-- 🏆 **2× Programming Contest Champion** at BUBT
+Hey! I'm **Faisal**, a mobile-first engineer who's spent **5+ years** turning complex real-world problems into sleek, scalable apps.
 
----
+My superpower? I combine **solid engineering fundamentals** with **modern AI workflows** to ship faster and smarter than ever.
 
-## 🤖 AI-Powered Development
+```yaml
+name:       Md Faisal Mahmud Rifat
+role:       React Native Engineer
+location:   Dhaka, Bangladesh 🇧🇩
+experience: 5+ Years
+current:    ACI Logistics (Software Engineer)
+focus:      Mobile Apps + AI-Augmented Development
+cp_solved:  700+ problems across CF, LC, UVA
+```
 
-I use AI not just as a tool — but as a **force multiplier**.
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤖 AI is My Co-Pilot
+
+> I don't just use AI tools. I **think with them**.
+
+<div align="center">
+
+| Tool | How I Use It |
+|------|-------------|
+| 🧠 **Claude AI** | Architecture reasoning, code reviews, complex problem solving |
+| ⚡ **GitHub Copilot** | In-editor autocomplete and boilerplate acceleration |
+| 💬 **ChatGPT** | Brainstorming, debugging hypotheses, documentation drafts |
+| 🖱️ **Cursor IDE** | AI-native coding environment for rapid iteration |
+| 🎯 **Prompt Engineering** | Crafting precise prompts for dev productivity and feature scoping |
+
+</div>
+
+<br/>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20IDE-1a1a2e?style=flat-square&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20IDE-1a1a2e?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-- ⚡ AI-assisted code review, refactoring & architecture decisions
-- 🔍 LLM-powered debugging — finding root causes faster
-- 📝 Prompt engineering for dev productivity & feature scoping
-- 🧪 AI-driven test case generation & edge case analysis
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Languages & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
-## 📱 Production Apps Shipped
-
-| 🚀 App | 📌 Domain | 📲 Platform | 🔥 Highlight |
-|--------|-----------|-------------|--------------|
-| **ACI Central Operations** | Logistics / Distribution | Android | Barcode scanning, DC workflows — *in progress* |
-| **Truck Lagbe** (Shipper & Owner) | Truck hiring & logistics | Android, iOS | Real-time GPS, bidding, house shifting |
-| **Foodi** | Food delivery | Android, iOS | Seamless ordering & restaurant discovery |
-| **Waada Insure** | Insurance purchase | Android, iOS | End-to-end policy management |
-| **Sohopathi** | Ed-tech | Android, iOS | Offline caching, video playback |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrifat1&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifat1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="38%" />
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
-> 💡 **Note:** Most of my production work lives in private org repos (Truck Lagbe, ACI, Mainframe Labs) — public stats don't tell the full story!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🏅 Competitive Programming
-
-```
-🥇 2× Champion     — BUBT Intra-University Programming Contest
-🥉 2× 3rd Place    — BUBT Intra-University Programming Contest
-✅ 700+ Problems   — Codeforces · LeetCode · CodeChef · UVA · HackerRank
-```
-
----
-
-## 🌐 Leadership
-
-- 🎙️ **Secretary, BUBT IT Club** — organized national & intra-university programming contests
-- 🧑‍💼 **ICPC Volunteer** — guided juniors, delegated tasks, supported event operations
-
----
+## 🚀 Apps I've Shipped to Production
 
 <div align="center">
 
-*"The best engineers don't just write code — they think in systems, move with AI, and ship things people love."*
+| App | Domain | Platforms | What Makes It Cool |
+|-----|--------|-----------|-------------------|
+| 🏭 **ACI Central Operations** | Logistics & Distribution | Android | Sunmi scanner + camera barcode, real-time DC ops |
+| 🚛 **Truck Lagbe** Shipper & Owner | Truck hiring platform | Android · iOS | GPS tracking, live bidding, house shifting flows |
+| 🍔 **Foodi** | Food delivery | Android · iOS | Smooth ordering experience & restaurant discovery |
+| 🛡️ **Waada Insure** | Insurance tech | Android · iOS | Full policy lifecycle from purchase to management |
+| 📚 **Sohopathi** | Ed-tech | Android · iOS | Offline-first video learning with social login |
 
-⭐ If something I built helped you, drop a star — it means the world!
+</div>
+
+<br/>
+
+> 💡 Most of my production code lives in **private org repos**. The commit graph doesn't capture it all!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrifat1&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrifat1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" width="38%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+| 🏆 Achievement | 🎯 Detail |
+|---------------|-----------|
+| 🥇 2x Champion | BUBT Intra-University Programming Contest |
+| 🥉 2x Third Place | BUBT Intra-University Programming Contest |
+| ✅ 700+ Problems | Codeforces · LeetCode · CodeChef · UVA |
+| 📌 ICPC Volunteer | Contest organizer and junior mentor |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎙️ Beyond the Code
+
+- 🏛️ **Secretary, BUBT IT Club** — ran national and intra-university programming contests
+- 🤝 **ICPC Volunteer** — mentored juniors and coordinated contest operations
+- 🧩 Strong believer that **problem-solving mindset + AI tools = unstoppable engineer**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+### 💬 Let's build something great together
+
+*"The best engineers think in systems, move with AI, and ship things people love."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mrifat1&color=61DAFB&style=flat-square&label=Profile+Views)](https://github.com/mrifat1)
 
 </div>
