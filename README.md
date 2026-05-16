@@ -4,6 +4,8 @@
 
 <br/>
 
+### 📱 React Native Engineer · ⚙️ Backend Engineer · 🤖 AI-Augmented Developer · 🇧🇩 Dhaka
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;1%2B+Year+of+Backend+Engineering+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
 
 <br/>
@@ -36,6 +38,13 @@ cp_solved:  700+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
+
+- 📱 Currently crafting **mobile + backend features** at **ACI Logistics** — barcode scanning, real-time DC workflows, NestJS APIs
+- 🚛 Previously shipped **Truck Lagbe** (logistics platform, 2 apps, 100K+ users)
+- ⚙️ Building backend systems with **NestJS, PostgreSQL and Node.js** for 1+ year
+- 🤖 Leverage **LLMs & AI tools** daily — from code generation to UX reasoning to debugging
+- 🧩 Competitive programmer with **700+ problems** solved — I actually think algorithmically
+- 🏆 **2x Programming Contest Champion** at BUBT
 
 
 ## 🤖 AI is My Co-Pilot
