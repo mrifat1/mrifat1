@@ -16,7 +16,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 The Developer Behind the Screen
 
@@ -33,12 +32,11 @@ location:   Dhaka, Bangladesh 🇧🇩
 experience: 5+ Years
 current:    ACI Logistics (Software Engineer)
 focus:      Mobile Apps + AI-Augmented Development
-cp_solved:  700+ problems across CF, LC, UVA
+cp_solved:  1000+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤖 AI is My Co-Pilot
 
@@ -64,7 +62,6 @@ cp_solved:  700+ problems across CF, LC, UVA
 ![Cursor](https://img.shields.io/badge/Cursor%20IDE-1a1a2e?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +92,6 @@ cp_solved:  700+ problems across CF, LC, UVA
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Apps I've Shipped to Production
 
@@ -113,9 +109,8 @@ cp_solved:  700+ problems across CF, LC, UVA
 
 <br/>
 
-> 💡 Most of my production code lives in **private org repos**. The commit graph doesn't capture it all!
+> 🔒 **Heads up!** Most of my professional work lives in **private GitHub and GitLab repos** maintained by my employers (ACI Logistics, Truck Lagbe, Mainframe Labs). Public contributions here are just the tip of the iceberg. The real action is behind closed doors!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Activity
 
@@ -126,7 +121,6 @@ cp_solved:  700+ problems across CF, LC, UVA
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 Competitive Programming
 
@@ -141,7 +135,6 @@ cp_solved:  700+ problems across CF, LC, UVA
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎙️ Beyond the Code
 
@@ -149,7 +142,6 @@ cp_solved:  700+ problems across CF, LC, UVA
 - 🤝 **ICPC Volunteer** — mentored juniors and coordinated contest operations
 - 🧩 Strong believer that **problem-solving mindset + AI tools = unstoppable engineer**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
