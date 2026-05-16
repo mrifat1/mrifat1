@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;Backend+Engineering+with+NestJS+%26+PostgreSQL+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Insurance+%7C+Food+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;Backend+Dev+with+NestJS+and+PostgreSQL+%E2%9A%99%EF%B8%8F;React+Native+%7C+NestJS+%7C+PostgreSQL+%7C+AI+%F0%9F%A4%96;Shipping+Apps+That+People+Actually+Use+%F0%9F%93%B1;Logistics+%7C+Ed-Tech+%7C+Retail+%7C+Food+Tech)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,16 +32,16 @@ location:   Dhaka, Bangladesh 🇧🇩
 experience: 5+ Years
 current:    ACI Logistics (Software Engineer)
 focus:      Mobile Apps + Backend APIs + AI-Augmented Development
-cp_solved:  1000+ problems across CF, LC, UVA
+cp_solved:  700+ problems across CF, LC, UVA
 ```
 
 <br clear="right"/>
 
-- 📱 Currently crafting **mobile + backend features** at **ACI Logistics** — barcode scanning, real-time DC workflows, NestJS APIs
+- 📱 Currently crafting **mobile + backend features** at **ACI Logistics**: barcode scanning, real-time DC workflows, NestJS APIs
 - 🚛 Previously shipped **Truck Lagbe** (logistics platform, 2 apps, 100K+ users)
 - ⚙️ Building backend systems with **NestJS, PostgreSQL and Node.js**
-- 🤖 Leverage **LLMs & AI tools** daily — from code generation to UX reasoning to debugging
-- 🧩 Competitive programmer with **1000+ problems** solved — I actually think algorithmically
+- 🤖 Leverage **LLMs & AI tools** daily: code generation, UX reasoning, debugging
+- 🧩 Competitive programmer with **700+ problems** solved. I actually think algorithmically
 - 🏆 **2x Programming Contest Champion** at BUBT
 
 
@@ -109,7 +109,7 @@ cp_solved:  1000+ problems across CF, LC, UVA
 | 🏭 **ACI Central Operations** | Logistics & Distribution | Android | Sunmi scanner + camera barcode, real-time DC ops |
 | 🚛 **Truck Lagbe** Shipper & Owner | Truck hiring platform | Android · iOS | GPS tracking, live bidding, house shifting flows |
 | 🍔 **Foodi** | Food delivery | Android · iOS | Smooth ordering experience & restaurant discovery |
-| 🛡️ **Waada Insure** | Insurance tech | Android · iOS | Full policy lifecycle from purchase to management |
+| 🛡️ **Waada Insure** | InsurTech | Android · iOS | Full policy lifecycle from purchase to management |
 | 📚 **Sohopathi** | Ed-tech | Android · iOS | Offline-first video learning with social login |
 
 </div>
@@ -137,7 +137,7 @@ cp_solved:  1000+ problems across CF, LC, UVA
 |---------------|-----------|
 | 🥇 2x Champion | BUBT Intra-University Programming Contest |
 | 🥉 2x Third Place | BUBT Intra-University Programming Contest |
-| ✅ 1000+ Problems | Codeforces · LeetCode · CodeChef · UVA |
+| ✅ 700+ Problems | Codeforces · LeetCode · CodeChef · UVA |
 | 📌 ICPC Volunteer | Contest organizer and junior mentor |
 
 </div>
@@ -145,8 +145,8 @@ cp_solved:  1000+ problems across CF, LC, UVA
 
 ## 🎙️ Beyond the Code
 
-- 🏛️ **Secretary, BUBT IT Club** — ran national and intra-university programming contests
-- 🤝 **ICPC Volunteer** — mentored juniors and coordinated contest operations
+- 🏛️ **Secretary, BUBT IT Club**: ran national and intra-university programming contests
+- 🤝 **ICPC Volunteer**: mentored juniors and coordinated contest operations
 - 🧩 Strong believer that **problem-solving mindset + AI tools = unstoppable engineer**
 
 
